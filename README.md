@@ -1,6 +1,6 @@
-### Cpp00
+### Cpp01
 #### Summary: 
-Introduction to fundamental C++ concepts, including namespaces, classes, member functions, I/O streams, initialization lists, and static and constant elements.
+Deepening knowledge in C++ focusing on memory allocation, references, pointers to members, and file streams.
 #### Acquired Skills:
-* Understanding of C++ programming basics.
-* Ability to implement simple classes with methods and attributes.
+* Advanced memory management in C++.
+* Efficient use of references and pointers.
